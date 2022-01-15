@@ -142,10 +142,41 @@ body{
     margin-left: 950px;
     cursor: pointer;
 }
+/* Bounus section */
+.bonus-section{
+    margin: 120px 165px 100px 165px;
+}
+.story{
+    display: flex;
+    width: 1120px;
+    height: 270px;
+}
+.photo{
+    margin-right: 96px;
+    height: 270px;
+    width: 405px;
+}
+.story-details{
+    height: 224px;
+    width: 610px;
+}
+.story-details button{
+    height: 45px;
+    width:200px;
+    background: #E02C6D;
+    color:white;
+    text-align: left;
+    font-size: 20px;
+    font-weight: 700;
+}
+
+
+
 
 /* Footer */
 footer{
-    background: rgba(74, 8, 80, 0.877);
+    /* background: rgba(74, 8, 80, 0.877); */
+    background: #E02C6DDE;
 }
 .copyrght-info{
     height: 140px;
