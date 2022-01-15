@@ -143,4 +143,35 @@ body{
     cursor: pointer;
 }
 
-    
+/* Footer */
+footer{
+    background: rgba(74, 8, 80, 0.877);
+}
+.copyrght-info{
+    height: 140px;
+    width: 265px;
+    text-align: center;
+    padding-left: 589px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    color: white;
+}
+.copyrght-info h2{
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 36px;
+    margin-bottom: 0;
+}
+.copyrght-info p{
+    font-size: 14px;
+    margin: 0;
+    color: #D9DBE1;
+
+}
+.social-media{
+    margin-top: 16px;
+}
+.media{
+    color: white;
+    margin-left: 16px;
+}
